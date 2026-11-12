@@ -19,7 +19,7 @@ The videos show closed-loop tests on Bench2Drive pedestrian-crossing routes in C
 
 The scripted pedestrian walks straight across and is struck by an oncoming vehicle in the opposite lane. The generated pedestrian stops near the centre line; PDM-Lite stops, and both wait before the crossing continues without a collision.
 
-<!-- drag 01_PDM-Lite_jw64_mutual-waiting.mp4 here -->
+<!-- 01 mutual-waiting.mp4 -->
 
 ### Clip 2 — LEAD, route jw_145: mutual waiting
 
